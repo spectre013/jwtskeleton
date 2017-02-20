@@ -1,0 +1,17 @@
+{
+  "username" : "test",
+  "firstname" : "Test",
+  "lastname" : "Testerson",
+  "email" : "test@testerson.com",
+  "password" : "$2a$04$IvD2hQJiOY0XZJUqkOnTQOBvvWX3TgBB43i0bPXEyvkmboC8k0ptC",
+  "enabled" : true,
+  "lastPasswordResetDate" : "01/01/2017",
+  "authorities" : [
+    {
+      "name" : "ROLE_USER"
+    },
+    {
+      "name" : "ROLE_ADMIN"
+    }
+  ]
+}
